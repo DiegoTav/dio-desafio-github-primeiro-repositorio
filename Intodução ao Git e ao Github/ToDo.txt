@@ -1,0 +1,3 @@
+[x] Baixar e Imprimir uma cheat sheet sobre git e GitHub
+[] Passar a limpo as anotações do notion.
+[] -
